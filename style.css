@@ -65,6 +65,10 @@ a {
     text-align: center;
 }
 
+.hero-btn {
+    margin-top: 20px;
+}
+
 button {
     background: #878787;
     color: #ffff;
