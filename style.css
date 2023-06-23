@@ -82,22 +82,26 @@ button {
 .content {
     display: flex;
     justify-content: center;
+    padding-bottom: 100px;
 }
 
 .content-container {
     width: 70%;
     display: flex;
     gap: 20px;
+    margin-top: -150px;
 }
 
 .card {
     background: #ffff;
     padding: 50px 30px;
     color: #464646;
+    height: 500px;
     display: flex;
     flex-direction: column;
     gap: 30px;
     align-items: center;
+    justify-content: center;
 }
 
 .card-logo {
