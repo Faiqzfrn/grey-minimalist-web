@@ -78,3 +78,37 @@ button {
     border-style: none;
     border-radius: 20px;
 }
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.content-container {
+    width: 70%;
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    background: #ffff;
+    padding: 50px 30px;
+    color: #464646;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+
+.card-logo {
+    font-size: 48px;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.card-text {
+    text-align: center;
+}
